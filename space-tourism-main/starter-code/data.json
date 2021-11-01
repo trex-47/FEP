@@ -97,6 +97,14 @@
       "description": "A spaceport or cosmodrome is a site for launching (or receiving) spacecraft, by analogy to the seaport for ships or airport for aircraft. Based in the famous Cape Canaveral, our spaceport is ideally situated to take advantage of the Earth’s rotation for launch."
     },
     {
+      "name": "Falcon Heavy",
+      "images": {
+        "portrait": "./assets/technology/image-spaceport-portrait.jpg",
+        "landscape": "./assets/technology/image-spaceport-landscape.jpg"
+      },
+      "description": "From Spacex launch pad 1"
+    },
+    {
       "name": "Space capsule",
       "images": {
         "portrait": "./assets/technology/image-space-capsule-portrait.jpg",
